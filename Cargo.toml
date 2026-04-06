@@ -10,8 +10,8 @@ members = [
 version = "0.6.0"
 edition = "2024"
 description = "A lightweight system monitoring tool with node agents and collector"
-repository = "https://github.com/l1x/ferrview"
-license = "AGPL-3.0"
+repository = "https://github.com/vectorian-rs/ferrview"
+license = "MIT"
 
 [workspace.dependencies]
 argh = { version = "0.1" }
